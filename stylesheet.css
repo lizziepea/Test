@@ -1,25 +1,21 @@
 
 h2 {
 
-	color: #5F9EA0;
+	color: #abbfb4;
 
 	}
 
-p, ul {
 
-	color: #A9A9A9;
+p, ul, h3, h4 {
 
-	}
-
-h3, h4 {
-
-	color: #696969;
+	color: #4d5957;
 
 	}
+
 
 body {
 
-	background-color: #fffff0;
+	background-color: #efe3d5;
 
 	}
 
